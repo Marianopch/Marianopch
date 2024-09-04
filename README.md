@@ -3,9 +3,9 @@
 
 - 🔭 Actualmente trabajo en el proyecto [Club Deportivo Angular/NodeJs](https://github.com/Marianopch/gitClub)
 
-- 🌱 Actualmente esto aprendiendo **React, MongoDB, Angular, NodeJS.**
+- 🌱 Actualmente esto aprendiendo **React Native, Firebase, Typescript, NodeJS.**
 
-- 💡 Mi siguiente proyecto sera [Veterinaria-FullStack en React](#)
+- 💡 Mi siguiente proyecto sera junto a la empresa Malff Digital [App de Telemetria IOT con React Native - Expo 51 - TS ](#)
 
 - 🧮 Mi ultimo challenge fue [Calculadora Angular](https://github.com/Marianopch/Calculadora_Challenge)
 
@@ -13,11 +13,11 @@
 
 - 📝 Podes encontrarme en Linkedin [https://www.linkedin.com/in/mariano-patricio-rosi-75bbb4162/](https://www.linkedin.com/in/mariano-patricio-rosi-75bbb4162/)
 
-- 💬 Preguntenme sobre! **Angular, NodeJS , MySQL**
+- 💬 Preguntenme sobre! **React Native, IOT, TS, NodeJS , MySQL, Firebase**
 
 - 📫 ¿Queres que hablemos? Escribime! **mariano.rs11@gmail.com**
 
-- 🎓 Me recibi en el instituto IFTS 11 como [Analista en Sistemas](Analista en Sistemas)
+- 🎓 Me recibi en la Universidad de la Ciudad de Buenos Aires como [Licenciado en Tecnologias Digitales](https://udelaciudad.edu.ar/licenciatura-en-tecnologias-digitales/)
 
 - ⚡ Hobbies y pasatiempos **Jugador de Ajedrez ♟️, entreno Basquet 🏀, amo andar en bici 🚴🏽‍♂️**
 
